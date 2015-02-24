@@ -8,7 +8,7 @@ public class NewTest {
   
 	@Test
   public void f() {
-	  System.out.println("testing again for commit in GIT");
+	  System.out.println("testing again for commit in GIT..again..");
   }
   @BeforeClass
   public void beforeClass() {
