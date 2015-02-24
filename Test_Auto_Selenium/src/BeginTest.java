@@ -1,5 +1,9 @@
 
-public class BeginTest {
-	//System.out.println ("First Commit"); 
+public class BeginTest 
+{
+public void test_commit()
+{
+	System.out.println ("First Commit"); 
+}
 
 }
